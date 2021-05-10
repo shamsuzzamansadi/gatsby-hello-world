@@ -34,11 +34,6 @@ Kick off your project with this hello-world boilerplate. This is my personal lea
 
     Open the `my-hello-world-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 ## 🧐 What's inside?
 
@@ -60,9 +55,16 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
+2.  **`/src`**: This dir
+## 🧐 What's inside?
 
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+A quick look at the top-level files and directories you'll see in a Gatsby project.
+
+    .
+    ├── node_modules
+    ├── src
+    ├── .gitignore
+    ├── .prettierrcistory for.
 
 4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
 
