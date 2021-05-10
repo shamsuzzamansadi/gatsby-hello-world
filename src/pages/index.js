@@ -6,7 +6,8 @@ export default function Home() {
       <h1>Hello Sadi!</h1>
       <p1> I do not need one!</p1>
       <br />
-      <Link to="/page-2/">Page 2 </Link>
+      <Link to="/page-2/">TODO-LIST </Link>
+      <br />
       <Link to="/dir/page-3/">Page 3 </Link>
       <br />
       <Link to="/counters/">Counter </Link>
