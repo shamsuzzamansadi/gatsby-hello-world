@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import {useSpring, animated} from "react-spring";
 import useMeasure from "../useMeasure";
+import './styles.css';
 
 function TestAnimation() {
     const [active, toggle] = useState(false);

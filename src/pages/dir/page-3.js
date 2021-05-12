@@ -16,7 +16,7 @@ function Text() {
     onRest: () => set(!flip),
   })
 
-  return <animated.h1 style={props}>hello</animated.h1>
+  return <animated.h1 style={props}>hello React Spring!</animated.h1>
 }
 
 export default () => {
