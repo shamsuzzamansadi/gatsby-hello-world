@@ -4,7 +4,7 @@
   Gatsby's hello-world starter - For my learning
 </h1>
 
-Kick off your project with this hello-world boilerplate. This is my personal learning project. I've added a counter and a ToDoList here for making myself comfortable with Gatsby. 😁
+Kick off your project with this hello-world boilerplate. This is my personal learning project. I've added a counter and a ToDoList here for making myself comfortable with Gatsby. 😁 I've also used React Spring on page-3! 😉
 
 ## 🚀 Quick start
 
