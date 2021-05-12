@@ -10,9 +10,9 @@ function TestAnimation() {
     })
 
     return(
-        <div {...bind} class="mainBox" onClick={() => toggle(!active)}>
-            <animated.div class="fillBox" style={props} class/>
-            <animated.div class="content">
+        <div {...bind} class="main-box" onClick={() => toggle(!active)}>
+            <animated.div class="fill-box" style={props} class/>
+            <animated.div class="content-box">
                 {props.width.interpolate(x => Math.floor((x.toFixed(0)*100) /width))}
             </animated.div>
         </div>
