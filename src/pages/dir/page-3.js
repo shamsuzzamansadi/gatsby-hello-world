@@ -1,6 +1,6 @@
 import React, { useState} from "react"
 import Link from "gatsby-link"
-import {useSpring, animated} from "react-spring"
+import {useSpring, animated, config} from "react-spring"
 import { render } from "react-dom";
 import TestAnimation from "./TestAnimation";
 
