@@ -9,6 +9,9 @@ function Text() {
   const props = useSpring({
     to: { opacity: 1 },
     from: { opacity: 0 },
+    loop: false,
+    from: { rotateZ: 0},
+    to: {rotateZ: 180},
     reset: true,
     reverse: flip,
     delay: 200,
